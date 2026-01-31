@@ -1,7 +1,9 @@
 # FoodOrdersAnalysis
 
 This repository contains Jupyter notebook(s) analyzing a food delivery dataset.
+
 The analysis includes:
+
 •	Gold member statistics (total orders, average order value, % of total orders)
 •	Orders by restaurant rating
 •	Top revenue city and restaurant combinations
