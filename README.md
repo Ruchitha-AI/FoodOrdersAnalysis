@@ -10,4 +10,4 @@ The analysis includes:
 Datasets used:
 - `orders.csv`
 - `users.json`
-- Restaurant details CSV
+- 'restuarants.sql'
